@@ -18,5 +18,9 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="gmain.cpp" />
+    <ClCompile Include="Game.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Game.h" />
   </ItemGroup>
 </Project>
